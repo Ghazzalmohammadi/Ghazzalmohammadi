@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- ✦ 👑 ROYAL GHAZAL 👑 ✦ -->
+<!-- ✦ GHAZAL ✦ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=%E2%99%9B%20GHAZAL%20%E2%99%9B&fontSize=92&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=4&animation=twinkling&color=0:ff0080,20:7928ff,40:00d4ff,60:7928ff,80:ff0080,100:7928ff"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=260&text=GHAZAL&fontSize=105&fontColor=FFFFFF&stroke=FF4FD8&strokeWidth=4&animation=twinkling&color=0:ff0080,30:7928ff,65:00d4ff,100:ff0080"/>
 
 <br>
 
@@ -41,8 +41,6 @@
 </a>
 
 <br><br>
-
-<!-- ✦ Royal Footer ✦ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:ff0080,40:7928ff,70:00d4ff,100:ff0080"/>
 
