@@ -2,7 +2,7 @@
 
 <!-- ✦ GHAZAL ✦ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=270&text=GHAZAL&fontSize=105&fontColor=FFFFFF&stroke=E8B4F8&strokeWidth=3&animation=twinkling&color=0:6C63FF,50:B86BFF,100:5ED6D6"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=GHAZAL&fontSize=110&fontColor=FFFFFF&stroke=E8B4F8&strokeWidth=4&animation=twinkling&color=0:5146C7,25:7C5CDB,50:B86BFF,75:69C9D0,100:5146C7"/>
 
 <br>
 
@@ -28,13 +28,13 @@
 <img src="https://img.shields.io/badge/GITHUB-Ghazzalmohammadi-171522?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=6C63FF"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/ghazzalmohammadii">
 <img src="https://img.shields.io/badge/INSTAGRAM-%40Ghazzalmohammadii-171522?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=B86BFF"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://t.me/Ghazzalmohammadi">
 <img src="https://img.shields.io/badge/TELEGRAM-%40Ghazzalmohammadi-171522?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=5ED6D6"/>
