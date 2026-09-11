@@ -1,61 +1,84 @@
 <div align="center">
 
-<!-- ✦ BIG GHAZAL ✦ -->
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=190&text=GHAZAL&fontSize=105&fontColor=FFFFFF&fontAlignY=55&stroke=FFFFFF&strokeWidth=3&animation=twinkling&color=0:ff0080,25:7928ff,50:00d4ff,75:7928ff,100:ff0080"/>
+<!-- ╔══════════════════════════════╗ -->
+<!--            GHAZAL              -->
+<!-- ╚══════════════════════════════╝ -->
+
+<svg width="850" height="190" viewBox="0 0 850 190" xmlns="http://www.w3.org/2000/svg">
+  <rect x="8" y="8" width="834" height="174" rx="35"
+        fill="#111111" stroke="#FF4FD8" stroke-width="4"/>
+
+  <rect x="25" y="25" width="800" height="140" rx="25"
+        fill="none" stroke="#00E5FF" stroke-width="2"/>
+
+  <path d="M55 95 L95 45 L145 45 L175 95 L145 145 L95 145 Z"
+        fill="none" stroke="#7928FF" stroke-width="3"/>
+
+  <path d="M675 95 L705 45 L755 45 L795 95 L755 145 L705 145 Z"
+        fill="none" stroke="#FF0080" stroke-width="3"/>
+
+  <text x="425" y="115"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="78"
+        font-weight="900"
+        fill="white">
+    GHAZAL
+  </text>
+</svg>
 
 <br>
 
 <!-- ✦ MY PROFESSIONS ✦ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=30&duration=1800&pause=650&color=FF4FD8&center=true&vCenter=true&width=1000&height=75&lines=✦+PYTHON+BEGINNER+✦;⚡+AI+CONTENT+CREATOR+⚡;🎨+LOGO+%26+GRAPHIC+DESIGNER+🎨;🎬+PHOTO+%26+VIDEO+EDITOR+🎬"/>
+<h1>💻 PYTHON BEGINNER</h1>
+
+<h1>🤖 AI CONTENT CREATOR</h1>
+
+<h1>🎨 LOGO &amp; GRAPHIC DESIGNER</h1>
+
+<h1>🎬 PHOTO &amp; VIDEO EDITOR</h1>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=850&height=55&lines=⌁+CODE+%E2%80%A2+CREATE+%E2%80%A2+DESIGN+%E2%80%A2+EDIT+⌁"/>
-
-<br><br>
-
 <!-- ✦ TOOLS ✦ -->
 
-<img src="https://skillicons.dev/icons?i=python,vscode,github,photoshop,illustrator,aftereffects,premiere&theme=dark"/>
+<h2>✦ MY TOOLS ✦</h2>
 
-<br><br>
+<p>
+<img src="https://skillicons.dev/icons?i=python,vscode,github,photoshop,illustrator,aftereffects,premiere">
+</p>
 
-<!-- ✦ WHAT I DO ✦ -->
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=21&duration=2000&pause=600&color=FFFFFF&center=true&vCenter=true&width=900&height=60&lines=✦+PYTHON+%26+PROGRAMMING;✦+AI+CONTENT+CREATION;✦+LOGO+%26+GRAPHIC+DESIGN;✦+PHOTO+%26+VIDEO+EDITING"/>
+<!-- ✦ ABOUT MY WORK ✦ -->
 
-<br><br>
+<h2>✦ CREATE • DESIGN • CODE • EDIT ✦</h2>
 
-<!-- ✦ LEARNING ✦ -->
+<p>
+<strong>Currently learning Python &amp; Programming</strong>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&width=850&height=55&lines=🌱+CURRENTLY+LEARNING+PYTHON+%26+PROGRAMMING+🌱"/>
-
-<br><br><br>
+<br>
 
 <!-- ✦ SOCIALS ✦ -->
 
-<a href="https://github.com/Ghazzalmohammadi">
-<img src="https://img.shields.io/badge/◈_GITHUB-Ghazzalmohammadi-111111?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=7928FF"/>
-</a>
+<h2>✦ CONNECT WITH ME ✦</h2>
 
-&nbsp;&nbsp;
+<a href="https://github.com/Ghazzalmohammadi">
+  <img src="https://img.shields.io/badge/GITHUB-7928FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <a href="https://instagram.com/ghazzalmohammadii">
-<img src="https://img.shields.io/badge/✦_INSTAGRAM-%40Ghazzalmohammadii-111111?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=FF0080"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-FF0080?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://t.me/Ghazzalmohammadi">
-<img src="https://img.shields.io/badge/✧_TELEGRAM-%40Ghazzalmohammadi-111111?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/TELEGRAM-00BFFF?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 <br><br>
-
-<!-- ✦ FOOTER ✦ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:ff0080,40:7928ff,70:00d4ff,100:ff0080"/>
 
 </div>
