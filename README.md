@@ -2,13 +2,13 @@
 
 <!-- ✦ GHAZAL ✦ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=100&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=1100&height=150&lines=GHAZAL"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=95&duration=800&pause=250&color=FFFFFF&center=true&vCenter=true&width=1100&height=150&lines=GHAZAL;GHAZAL;GHAZAL"/>
 
 <br>
 
 <!-- ✦ Animated Titles ✦ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=1800&pause=700&color=B9A7FF&center=true&vCenter=true&width=900&height=70&lines=PYTHON+BEGINNER;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=1800&pause=700&color=8FE3E8&center=true&vCenter=true&width=900&height=70&lines=PYTHON+BEGINNER;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR"/>
 
 <br><br>
 
@@ -17,6 +17,8 @@
 <img src="https://skillicons.dev/icons?i=python,vscode,github,photoshop,illustrator,aftereffects,premiere&theme=dark"/>
 
 <br><br>
+
+<!-- ✦ Learning ✦ -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2500&pause=800&color=8FE3E8&center=true&vCenter=true&width=750&lines=Currently+learning+Python+%26+Programming..."/>
 
