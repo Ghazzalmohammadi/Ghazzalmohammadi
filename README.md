@@ -2,7 +2,7 @@
 
 <!-- ✦ GHAZAL ✦ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=GHAZAL&fontSize=115&fontColor=FFFFFF&stroke=E8B4F8&strokeWidth=4&animation=twinkling&color=0:4B3F9E,25:6C63FF,50:B86BFF,75:6FD8D2,100:4B3F9E"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=GHAZAL&fontSize=110&fontColor=FFFFFF&stroke=E8B4F8&strokeWidth=4&animation=twinkling&color=0:5146C7,25:7C5CDB,50:B86BFF,75:69C9D0,100:5146C7"/>
 
 <br>
 
