@@ -2,13 +2,13 @@
 
 <!-- ✦ GHAZAL ✦ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=85&duration=1&pause=999999&color=5B8DEF&center=true&vCenter=true&width=1000&height=130&lines=GHAZAL"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=100&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=1100&height=150&lines=GHAZAL"/>
 
 <br>
 
 <!-- ✦ Animated Titles ✦ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=1800&pause=700&color=B9A7FF&center=true&vCenter=true&width=900&height=65&lines=PYTHON+BEGINNER;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=1800&pause=700&color=B9A7FF&center=true&vCenter=true&width=900&height=70&lines=PYTHON+BEGINNER;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR"/>
 
 <br><br>
 
