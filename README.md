@@ -14,7 +14,7 @@
 
 <!-- ✦ Skills / Tools ✦ -->
 
-<img src="https://skillicons.dev/icons?i=python,github,photoshop,illustrator,aftereffects,premiere&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,vscode,github,photoshop,illustrator,aftereffects,premiere&theme=dark"/>
 
 <br><br>
 
