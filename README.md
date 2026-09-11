@@ -2,7 +2,7 @@
 
 <!-- ✦ GHAZAL ✦ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=230&text=GHAZAL&fontSize=90&fontColor=FFFFFF&stroke=E8B4F8&strokeWidth=3&animation=twinkling&color=0:6C63FF,50:B86BFF,100:5ED6D6"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=GHAZAL&fontSize=92&fontColor=FFFFFF&stroke=E8B4F8&strokeWidth=4&animation=twinkling&color=0:5146C7,25:7C5CDB,50:B86BFF,75:69C9D0,100:5146C7"/>
 
 <br>
 
@@ -22,30 +22,30 @@
 
 <br><br><br>
 
-<!-- ✦ Socials ✦ -->
+<!-- ✦ SOCIALS ✦ -->
 
 <table>
 <tr>
 
 <td align="center">
 <a href="https://github.com/Ghazzalmohammadi">
-<img src="https://img.shields.io/badge/GITHUB-Ghazzalmohammadi-171522?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=6C63FF"/>
+<img src="https://img.shields.io/badge/GITHUB-%40GHAZZALMOHAMMADI-171522?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=6C63FF"/>
 </a>
 </td>
 
-<td width="30"></td>
+<td width="35"></td>
 
 <td align="center">
 <a href="https://instagram.com/ghazzalmohammadii">
-<img src="https://img.shields.io/badge/INSTAGRAM-%40Ghazzalmohammadii-171522?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=B86BFF"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-%40GHAZZALMOHAMMADII-171522?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=B86BFF"/>
 </a>
 </td>
 
-<td width="30"></td>
+<td width="35"></td>
 
 <td align="center">
 <a href="https://t.me/Ghazzalmohammadi">
-<img src="https://img.shields.io/badge/TELEGRAM-%40Ghazzalmohammadi-171522?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=5ED6D6"/>
+<img src="https://img.shields.io/badge/TELEGRAM-%40GHAZZALMOHAMMADI-171522?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=5ED6D6"/>
 </a>
 </td>
 
@@ -54,6 +54,8 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:6C63FF,40:B86BFF,70:5ED6D6,100:6C63FF"/>
+<!-- ✦ FOOTER ✦ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:6C63FF,40:B86BFF,70:5ED6D5,100:6C63FF"/>
 
 </div>
