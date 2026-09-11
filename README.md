@@ -2,60 +2,46 @@
 
 <!-- ✦ GHAZAL ✦ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=GHAZAL&fontSize=92&fontColor=FFFFFF&stroke=E8B4F8&strokeWidth=4&animation=twinkling&color=0:5146C7,25:7C5CDB,50:B86BFF,75:69C9D0,100:5146C7"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=GHAZAL&fontSize=95&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=2&animation=twinkling&color=0:ff0080,30:7928ff,65:00d4ff,100:ff0080"/>
 
 <br>
 
 <!-- ✦ Animated Titles ✦ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=1800&pause=700&color=C98BFF&center=true&vCenter=true&width=900&height=70&lines=PYTHON+BEGINNER;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=1800&pause=700&color=FF4FD8&center=true&vCenter=true&width=900&height=70&lines=PYTHON+BEGINNER;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR"/>
 
 <br><br>
 
 <!-- ✦ Skills / Tools ✦ -->
 
-<img src="https://skillicons.dev/icons?i=python,vscode,github,photoshop,illustrator,aftereffects,premiere&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,github,photoshop,illustrator,aftereffects,premiere&theme=dark"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2500&pause=800&color=79E6E0&center=true&vCenter=true&width=750&lines=Currently+learning+Python+%26+Programming..."/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Currently+learning+Python+%26+Programming..."/>
 
 <br><br><br>
 
-<!-- ✦ SOCIALS ✦ -->
+<!-- ✦ Socials ✦ -->
 
-<table>
-<tr>
-
-<td align="center">
 <a href="https://github.com/Ghazzalmohammadi">
-<img src="https://img.shields.io/badge/GITHUB-%40GHAZZALMOHAMMADI-171522?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=6C63FF"/>
+<img src="https://img.shields.io/badge/GITHUB-Ghazzalmohammadi-111111?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=7928FF"/>
 </a>
-</td>
 
-<td width="35"></td>
+&nbsp;
 
-<td align="center">
 <a href="https://instagram.com/ghazzalmohammadii">
-<img src="https://img.shields.io/badge/INSTAGRAM-%40GHAZZALMOHAMMADII-171522?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=B86BFF"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-%40Ghazzalmohammadii-111111?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=FF0080"/>
 </a>
-</td>
 
-<td width="35"></td>
+&nbsp;
 
-<td align="center">
 <a href="https://t.me/Ghazzalmohammadi">
-<img src="https://img.shields.io/badge/TELEGRAM-%40GHAZZALMOHAMMADI-171522?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=5ED6D6"/>
+<img src="https://img.shields.io/badge/TELEGRAM-%40Ghazzalmohammadi-111111?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=00BFFF"/>
 </a>
-</td>
-
-</tr>
-</table>
 
 <br><br>
 
-<!-- ✦ FOOTER ✦ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:6C63FF,40:B86BFF,70:5ED6D5,100:6C63FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:ff0080,40:7928ff,70:00d4ff,100:ff0080"/>
 
 </div>
