@@ -9,7 +9,7 @@
 
 <!-- ✦ ANIMATED TITLES ✦ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2200&pause=650&color=9AE8E0&center=true&vCenter=true&width=900&height=70&lines=LEARNING+PYTHON+PROGRAMMING;LEARNING+JAVASCRIPT;LEARNING+WEB+DEVELOPMENT;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2200&pause=750&color=9AE8E0&center=true&vCenter=true&width=1000&height=85&lines=LEARNING+PYTHON+PROGRAMMING;LEARNING+JAVASCRIPT;LEARNING+WEB+DEVELOPMENT;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR"/>
 
 <br><br>
 
@@ -19,7 +19,7 @@
 
 <!-- ✦ ABOUT ✦ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=3000&pause=1000&color=C5A7F5&center=true&vCenter=true&width=750&height=40&lines=Exploring+the+world+of+code+%26+creativity...;Building+ideas+into+something+beautiful..."/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=25&duration=3500&pause=1200&color=C5A7F5&center=true&vCenter=true&width=1000&height=60&lines=Exploring+the+world+of+code+%26+creativity...;Building+ideas+into+something+beautiful..."/>
 
 <br><br>
 
@@ -41,7 +41,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=900&color=65D6C4&center=true&vCenter=true&width=700&height=65&lines=LEARNING+THE+GERMAN+LANGUAGE"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2800&pause=1000&color=65D6C4&center=true&vCenter=true&width=950&height=75&lines=LEARNING+THE+GERMAN+LANGUAGE"/>
 
 <br><br>
 
@@ -81,13 +81,13 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=23&duration=3500&pause=1200&color=9AE8E0&center=true&vCenter=true&width=950&height=55&lines=Ghazal+Turns+the+Impossible+into+Possible."/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3800&pause=1400&color=9AE8E0&center=true&vCenter=true&width=1050&height=70&lines=Ghazal+Turns+the+Impossible+into+Possible."/>
 
 <br><br>
 
 <!-- ✦ MY INSTRUCTORS ✦ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=23&duration=2500&pause=900&color=C5A7F5&center=true&vCenter=true&width=550&height=45&lines=MY+INSTRUCTORS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=27&duration=2800&pause=1000&color=C5A7F5&center=true&vCenter=true&width=750&height=65&lines=MY+INSTRUCTORS"/>
 
 <br><br>
 
