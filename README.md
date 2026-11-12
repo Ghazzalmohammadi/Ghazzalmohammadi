@@ -27,7 +27,11 @@
 
 ### ✦ TECH STACK & CREATIVE TOOLS ✦
 
-<img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,js,django,vscode,github,photoshop,illustrator,aftereffects,premiere&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,js,django&theme=dark&perline=3" height="100"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=vscode,github,photoshop,illustrator,aftereffects,premiere&theme=dark&perline=3" height="100"/>
 
 <br><br>
 
@@ -57,27 +61,9 @@
 
 <br><br><br>
 
-<!-- ✦ ETERNAL SYMBOL ✦ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8DEBDF,50:9C7BFF,100:8DEBDF"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&duration=1800&pause=900&color=8DEBDF&center=true&vCenter=true&width=500&height=65&lines=18%E1%AA%B9+%E2%9C%A6+19%E1%AA%B9"/>
-
-<br>
-
-<p>𓆙</p>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8DEBDF,50:9C7BFF,100:8DEBDF"/>
-
-<br><br>
-
 <!-- ✦ FOOTER ✦ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&animation=twinkling&color=0:080B18,30:087F83,65:49346E,100:080B18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&animation=twinkling&color=0:080B18,30:087F83,65:49346E,100:080B18"/>
 
 </div>
 
