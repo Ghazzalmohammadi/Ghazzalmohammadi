@@ -3,7 +3,7 @@
 
 <!-- ✦ DARK GALAXY HEADER ✦ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=GHAZAL&fontSize=90&fontColor=F1E9FF&fontAlignY=42&animation=twinkling&color=0:05070D,20:101D3A,40:075B64,65:43245F,85:681D45,100:05070D"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=GHAZAL&fontSize=115&fontColor=E8F9FF&fontAlignY=42&animation=twinkling&color=0:05070D,25:101D3A,50:43245F,75:087F83,100:05070D"/>
 
 <br>
 
@@ -81,11 +81,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=21&duration=3000&pause=1000&color=9B80D8&center=true&vCenter=true&width=850&height=55&lines=Exploring%2C+Learning+%26+Creating..."/>
-
-<br>
-
-### ✨ GHAZAL TURNS THE IMPOSSIBLE INTO POSSIBLE ✨
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3500&pause=1200&color=9AE8E0&center=true&vCenter=true&width=850&height=45&lines=Ghazal+Turns+the+Impossible+into+Possible."/>
 
 <br><br>
 
