@@ -1,25 +1,25 @@
 
 <div align="center">
 
-<!-- ✦ DARK AURORA HEADER ✦ -->
+<!-- ✦ DARK GALAXY HEADER ✦ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=GHAZAL&fontSize=90&fontColor=E8F9FF&fontAlignY=42&animation=twinkling&color=0:080B18,25:18234B,50:49346E,75:087F83,100:080B18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=GHAZAL&fontSize=90&fontColor=F1E9FF&fontAlignY=42&animation=twinkling&color=0:05070D,20:101D3A,40:075B64,65:43245F,85:681D45,100:05070D"/>
 
 <br>
 
 <!-- ✦ ANIMATED TITLES ✦ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2200&pause=650&color=8DEBDF&center=true&vCenter=true&width=900&height=70&lines=LEARNING+PYTHON+PROGRAMMING;LEARNING+JAVASCRIPT;LEARNING+WEB+DEVELOPMENT;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2200&pause=650&color=9AE8E0&center=true&vCenter=true&width=900&height=70&lines=LEARNING+PYTHON+PROGRAMMING;LEARNING+JAVASCRIPT;LEARNING+WEB+DEVELOPMENT;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8DEBDF,40:9C7BFF,70:42C9D9,100:8DEBDF"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:16A6B0,35:55D6B0,65:9B70D8,100:9D315D"/>
 
 <br>
 
 <!-- ✦ ABOUT ✦ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=3000&pause=1000&color=C2A8FF&center=true&vCenter=true&width=750&height=40&lines=Exploring+the+world+of+code+%26+creativity...;Building+ideas+into+something+beautiful..."/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=3000&pause=1000&color=C5A7F5&center=true&vCenter=true&width=750&height=40&lines=Exploring+the+world+of+code+%26+creativity...;Building+ideas+into+something+beautiful..."/>
 
 <br><br>
 
@@ -41,19 +41,19 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=900&color=8DEBDF&center=true&vCenter=true&width=700&height=65&lines=LEARNING+THE+GERMAN+LANGUAGE"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=900&color=65D6C4&center=true&vCenter=true&width=700&height=65&lines=LEARNING+THE+GERMAN+LANGUAGE"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8DEBDF,40:9C7BFF,100:8DEBDF"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:087F83,50:7650A8,100:8F2855"/>
 
 <br><br>
 
 <!-- ✦ STATUS ✦ -->
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-102C35?style=for-the-badge&labelColor=101426&color=36CFC9"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-102C35?style=for-the-badge&labelColor=080B14&color=087F83"/>
 
-<img src="https://img.shields.io/badge/MINDSET-CREATE%20WITHOUT%20LIMITS-30204A?style=for-the-badge&labelColor=101426&color=A98BFF"/>
+<img src="https://img.shields.io/badge/MINDSET-CREATE%20WITHOUT%20LIMITS-30204A?style=for-the-badge&labelColor=080B14&color=754A9B"/>
 
 <br><br>
 
@@ -62,26 +62,26 @@
 ### ✦ CONNECT WITH ME ✦
 
 <a href="https://github.com/Ghazzalmohammadi">
-<img src="https://img.shields.io/badge/GITHUB-151A2E?style=for-the-badge&logo=github&logoColor=8DEBDF"/>
+<img src="https://img.shields.io/badge/GITHUB-080B14?style=for-the-badge&logo=github&logoColor=75D9D0"/>
 </a>
 
 <a href="https://instagram.com/ghazzalmohammadii">
-<img src="https://img.shields.io/badge/INSTAGRAM-151A2E?style=for-the-badge&logo=instagram&logoColor=C2A8FF"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-080B14?style=for-the-badge&logo=instagram&logoColor=C17BBD"/>
 </a>
 
 <a href="https://t.me/Ghazzalmohammadi">
-<img src="https://img.shields.io/badge/TELEGRAM-151A2E?style=for-the-badge&logo=telegram&logoColor=8DEBDF"/>
+<img src="https://img.shields.io/badge/TELEGRAM-080B14?style=for-the-badge&logo=telegram&logoColor=69BFE0"/>
 </a>
 
 <br><br><br>
 
 <!-- ✦ PERSONAL MOTTO ✦ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8DEBDF,40:9C7BFF,100:8DEBDF"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:16A6B0,35:55D6B0,65:9B70D8,100:9D315D"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=21&duration=3000&pause=1000&color=8DEBDF&center=true&vCenter=true&width=850&height=55&lines=Exploring%2C+Learning+%26+Creating..."/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=21&duration=3000&pause=1000&color=9B80D8&center=true&vCenter=true&width=850&height=55&lines=Exploring%2C+Learning+%26+Creating..."/>
 
 <br>
 
@@ -91,21 +91,23 @@
 
 <!-- ✦ MY INSTRUCTORS ✦ -->
 
-### ✦ MY INSTRUCTORS ✦
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2500&pause=900&color=9B80D8&center=true&vCenter=true&width=500&height=35&lines=MY+INSTRUCTORS"/>
+
+<br><br>
 
 <a href="https://github.com/jadijadi">
-<img src="https://img.shields.io/badge/JADI_MIRMIRANI-MY_INSTRUCTOR-18234B?style=for-the-badge&logo=github&logoColor=8DEBDF"/>
+<img src="https://img.shields.io/badge/JADI_MIRMIRANI-MY_INSTRUCTOR-101D3A?style=for-the-badge&logo=github&logoColor=65D6C4"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/Akam-tx">
-<img src="https://img.shields.io/badge/AKAM--TX-MY_INSTRUCTOR-49346E?style=for-the-badge&logo=github&logoColor=C2A8FF"/>
+<img src="https://img.shields.io/badge/AKAM--TX-MY_INSTRUCTOR-43245F?style=for-the-badge&logo=github&logoColor=D0A1ED"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8DEBDF,40:9C7BFF,100:8DEBDF"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:16A6B0,35:55D6B0,65:9B70D8,100:9D315D"/>
 
 <br><br>
 
@@ -115,6 +117,6 @@
 
 <!-- ✦ FOOTER ✦ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&animation=twinkling&color=0:080B18,30:087F83,65:49346E,100:080B18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&animation=twinkling&color=0:05070D,25:075B64,50:43245F,75:681D45,100:05070D"/>
 
 </div>
