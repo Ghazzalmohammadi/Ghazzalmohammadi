@@ -1,47 +1,61 @@
+
 <div align="center">
 
-<!-- ✦ GHAZAL ✦ -->
+<!-- ✦ DARK AURORA HEADER ✦ -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=280&text=GHAZAL&fontSize=95&fontColor=FFFFFF&stroke=E8E4FF&strokeWidth=3&animation=twinkling&color=0:5B8DEF,30:8FA8FF,60:B9A7FF,80:8FE3E8,100:5B8DEF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=GHAZAL&fontSize=90&fontColor=E8F9FF&fontAlignY=42&animation=twinkling&color=0:080B18,25:18234B,50:49346E,75:087F83,100:080B18"/>
 
 <br>
 
-<!-- ✦ Animated Titles ✦ -->
+<!-- ✦ AURORA TYPING ✦ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=1800&pause=700&color=B9A7FF&center=true&vCenter=true&width=900&height=70&lines=PYTHON+BEGINNER;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=27&duration=2200&pause=650&color=8DEBDF&center=true&vCenter=true&width=850&height=65&lines=PYTHON+DEVELOPER+IN+PROGRESS;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR;CREATIVITY+MEETS+TECHNOLOGY"/>
 
 <br><br>
 
-<!-- ✦ Skills / Tools ✦ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8DEBDF,40:9C7BFF,70:42C9D9,100:8DEBDF"/>
+
+<br>
+
+<!-- ✦ ABOUT ME ✦ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=3000&pause=1000&color=C2A8FF&center=true&vCenter=true&width=750&height=40&lines=Exploring+the+world+of+code+%26+creativity...;Building+ideas+into+something+beautiful..."/>
+
+<br><br>
+
+### ✦ TECH STACK & CREATIVE TOOLS ✦
 
 <img src="https://skillicons.dev/icons?i=python,vscode,github,photoshop,illustrator,aftereffects,premiere&theme=dark"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2500&pause=800&color=8FE3E8&center=true&vCenter=true&width=750&lines=Currently+learning+Python+%26+Programming..."/>
+<!-- ✦ LEARNING STATUS ✦ -->
 
-<br><br><br>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-102C35?style=for-the-badge&labelColor=101426&color=36CFC9"/>
 
-<!-- ✦ Socials ✦ -->
+<img src="https://img.shields.io/badge/MINDSET-CREATE%20WITHOUT%20LIMITS-30204A?style=for-the-badge&labelColor=101426&color=A98BFF"/>
+
+<br><br>
+
+### ✦ CONNECT WITH ME ✦
 
 <a href="https://github.com/Ghazzalmohammadi">
-<img src="https://img.shields.io/badge/GITHUB-Ghazzalmohammadi-151A2E?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=6F8FEF"/>
+<img src="https://img.shields.io/badge/GITHUB-151A2E?style=for-the-badge&logo=github&logoColor=8DEBDF"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/ghazzalmohammadii">
-<img src="https://img.shields.io/badge/INSTAGRAM-%40Ghazzalmohammadii-151A2E?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=A88FEF"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-151A2E?style=for-the-badge&logo=instagram&logoColor=C2A8FF"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://t.me/Ghazzalmohammadi">
-<img src="https://img.shields.io/badge/TELEGRAM-%40Ghazzalmohammadi-151A2E?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=78D9E0"/>
+<img src="https://img.shields.io/badge/TELEGRAM-151A2E?style=for-the-badge&logo=telegram&logoColor=8DEBDF"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:5B8DEF,40:8FA8FF,70:B9A7FF,100:8FE3E8"/>
+<!-- ✦ FOOTER ✦ -->
 
-</div> 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&animation=twinkling&color=0:080B18,30:087F83,65:49346E,100:080B18"/>
+
+</div>
+
