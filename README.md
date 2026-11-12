@@ -33,6 +33,20 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,github,photoshop,illustrator,aftereffects,premiere&theme=dark&perline=6" height="100"/>
 
+<br><br><br>
+
+<!-- ✦ GERMAN LEARNING ✦ -->
+
+<img src="https://flagcdn.com/w320/de.png" width="150" alt="German Flag"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=900&color=8DEBDF&center=true&vCenter=true&width=700&height=65&lines=LEARNING+GERMAN"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8DEBDF,40:9C7BFF,100:8DEBDF"/>
+
 <br><br>
 
 <!-- ✦ STATUS ✦ -->
@@ -66,6 +80,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&animation=twinkling&color=0:080B18,30:087F83,65:49346E,100:080B18"/>
 
 </div>
-
 
 
