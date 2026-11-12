@@ -75,11 +75,46 @@
 
 <br><br><br>
 
+<!-- ✦ PERSONAL MOTTO ✦ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8DEBDF,40:9C7BFF,100:8DEBDF"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=21&duration=3000&pause=1000&color=8DEBDF&center=true&vCenter=true&width=850&height=55&lines=Exploring%2C+Learning+%26+Creating..."/>
+
+<br>
+
+### ✨ GHAZAL TURNS THE IMPOSSIBLE INTO POSSIBLE ✨
+
+<br><br>
+
+<!-- ✦ MY INSTRUCTORS ✦ -->
+
+### ✦ MY INSTRUCTORS ✦
+
+<a href="https://github.com/jadijadi">
+<img src="https://img.shields.io/badge/JADI_MIRMIRANI-MY_INSTRUCTOR-18234B?style=for-the-badge&logo=github&logoColor=8DEBDF"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/Akam-tx">
+<img src="https://img.shields.io/badge/AKAM--TX-MY_INSTRUCTOR-49346E?style=for-the-badge&logo=github&logoColor=C2A8FF"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8DEBDF,40:9C7BFF,100:8DEBDF"/>
+
+<br><br>
+
+**DESIGNING WITH CREATIVITY. LEARNING WITHOUT LIMITS.**
+
+<br><br>
+
 <!-- ✦ FOOTER ✦ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&animation=twinkling&color=0:080B18,30:087F83,65:49346E,100:080B18"/>
 
 </div>
-
-
-
