@@ -9,7 +9,7 @@
 
 <!-- ✦ ANIMATED TITLES ✦ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=27&duration=2200&pause=650&color=8DEBDF&center=true&vCenter=true&width=850&height=65&lines=PYTHON+DEVELOPER+IN+PROGRESS;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR;CREATIVITY+MEETS+TECHNOLOGY"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2200&pause=650&color=8DEBDF&center=true&vCenter=true&width=900&height=70&lines=LEARNING+PYTHON+PROGRAMMING;LEARNING+JAVASCRIPT;LEARNING+WEB+DEVELOPMENT;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR"/>
 
 <br><br>
 
@@ -17,7 +17,7 @@
 
 <br>
 
-<!-- ✦ ABOUT ME ✦ -->
+<!-- ✦ ABOUT ✦ -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=3000&pause=1000&color=C2A8FF&center=true&vCenter=true&width=750&height=40&lines=Exploring+the+world+of+code+%26+creativity...;Building+ideas+into+something+beautiful..."/>
 
@@ -31,7 +31,7 @@
 
 <br><br>
 
-<!-- ✦ LEARNING STATUS ✦ -->
+<!-- ✦ STATUS ✦ -->
 
 <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-102C35?style=for-the-badge&labelColor=101426&color=36CFC9"/>
 
@@ -39,7 +39,7 @@
 
 <br><br>
 
-<!-- ✦ SOCIAL MEDIA ✦ -->
+<!-- ✦ SOCIALS ✦ -->
 
 ### ✦ CONNECT WITH ME ✦
 
@@ -57,27 +57,17 @@
 
 <br><br><br>
 
-<!-- ✦ MEMORIAL SECTION ✦ -->
+<!-- ✦ ETERNAL SYMBOL ✦ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8DEBDF,50:9C7BFF,100:8DEBDF"/>
 
 <br>
 
-<h2>🖤 ۱۸ و ۱۹ دی 🖤</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&duration=1800&pause=900&color=8DEBDF&center=true&vCenter=true&width=500&height=65&lines=18%E1%AA%B9+%E2%9C%A6+19%E1%AA%B9"/>
 
-<h3>به یاد جاویدنامان</h3>
+<br>
 
-<p>
-<code>18᪹</code> &nbsp; ✦ &nbsp; <code>19᪹</code>
-</p>
-
-<p>
-<em>نامشان ماندگار، یادشان جاودان</em>
-</p>
-
-<p>
-<sub>IN MEMORY OF THE ETERNAL NAMES</sub>
-</p>
+<p>𓆙</p>
 
 <br>
 
