@@ -7,7 +7,7 @@
 
 <br>
 
-<!-- ✦ AURORA TYPING ✦ -->
+<!-- ✦ ANIMATED TITLES ✦ -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=27&duration=2200&pause=650&color=8DEBDF&center=true&vCenter=true&width=850&height=65&lines=PYTHON+DEVELOPER+IN+PROGRESS;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR;CREATIVITY+MEETS+TECHNOLOGY"/>
 
@@ -23,9 +23,11 @@
 
 <br><br>
 
+<!-- ✦ SKILLS & TOOLS ✦ -->
+
 ### ✦ TECH STACK & CREATIVE TOOLS ✦
 
-<img src="https://skillicons.dev/icons?i=python,vscode,github,photoshop,illustrator,aftereffects,premiere&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,js,django,vscode,github,photoshop,illustrator,aftereffects,premiere&theme=dark"/>
 
 <br><br>
 
@@ -36,6 +38,8 @@
 <img src="https://img.shields.io/badge/MINDSET-CREATE%20WITHOUT%20LIMITS-30204A?style=for-the-badge&labelColor=101426&color=A98BFF"/>
 
 <br><br>
+
+<!-- ✦ SOCIAL MEDIA ✦ -->
 
 ### ✦ CONNECT WITH ME ✦
 
@@ -51,6 +55,34 @@
 <img src="https://img.shields.io/badge/TELEGRAM-151A2E?style=for-the-badge&logo=telegram&logoColor=8DEBDF"/>
 </a>
 
+<br><br><br>
+
+<!-- ✦ MEMORIAL SECTION ✦ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8DEBDF,50:9C7BFF,100:8DEBDF"/>
+
+<br>
+
+<h2>🖤 ۱۸ و ۱۹ دی 🖤</h2>
+
+<h3>به یاد جاویدنامان</h3>
+
+<p>
+<code>18᪹</code> &nbsp; ✦ &nbsp; <code>19᪹</code>
+</p>
+
+<p>
+<em>نامشان ماندگار، یادشان جاودان</em>
+</p>
+
+<p>
+<sub>IN MEMORY OF THE ETERNAL NAMES</sub>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8DEBDF,50:9C7BFF,100:8DEBDF"/>
+
 <br><br>
 
 <!-- ✦ FOOTER ✦ -->
@@ -58,4 +90,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&animation=twinkling&color=0:080B18,30:087F83,65:49346E,100:080B18"/>
 
 </div>
+
 
