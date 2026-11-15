@@ -1,9 +1,9 @@
- 
+
 <div align="center">
 
 <!-- DARK GALACTIC AURORA HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=310&text=GHAZAL&fontSize=125&fontColor=F1E9FF&fontAlignY=42&animation=twinkling&color=0:05070D,20:101D3A,40:075B64,60:43245F,80:8F2855,100:05070D"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=310&text=GHAZAL&fontSize=150&fontColor=F1E9FF&fontAlignY=42&animation=twinkling&color=0:05070D,20:101D3A,40:075B64,60:43245F,80:8F2855,100:05070D"/>
 
 <br>
 
@@ -15,17 +15,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:16A6B0,30:55D6B0,60:9B70D8,100:9D315D"/>
 
-<br>
+<br><br>
 
 <!-- ABOUT -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=25&duration=3500&pause=1200&color=C5A7F5&center=true&vCenter=true&width=1000&height=60&lines=Exploring+the+world+of+code+%26+creativity...;Building+ideas+into+something+beautiful..."/>
-
-<br><br>
+<!-- THE BROKEN ANIMATED IMAGE WAS REMOVED -->
 
 <!-- SKILLS & TOOLS -->
 
-### ✦ TECH STACK & CREATIVE TOOLS ✦
+<h2>✦ TECH STACK & CREATIVE TOOLS ✦</h2>
 
 <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,js,django&theme=dark&perline=6" height="100"/>
 
@@ -53,13 +51,15 @@
 
 <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-102C35?style=for-the-badge&labelColor=080B14&color=087F83"/>
 
+<br><br>
+
 <img src="https://img.shields.io/badge/MINDSET-CREATE%20WITHOUT%20LIMITS-30204A?style=for-the-badge&labelColor=080B14&color=754A9B"/>
 
 <br><br>
 
 <!-- SOCIALS -->
 
-### ✦ CONNECT WITH ME ✦
+<h2>✦ CONNECT WITH ME ✦</h2>
 
 <a href="https://github.com/Ghazzalmohammadi">
 <img src="https://img.shields.io/badge/GITHUB-080B14?style=for-the-badge&logo=github&logoColor=75D9D0"/>
@@ -116,4 +116,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&animation=twinkling&color=0:05070D,25:075B64,50:43245F,75:8F2855,100:05070D"/>
 
 </div>
-
