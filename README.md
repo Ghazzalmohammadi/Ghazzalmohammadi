@@ -1,118 +1,35 @@
-
-<div align="center">
-
-<!-- ✦ DARK AURORA HEADER ✦ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=310&text=GHAZAL&fontSize=125&fontColor=F1E9FF&fontAlignY=42&animation=twinkling&color=0:05070D,20:101D3A,40:075B64,60:43245F,80:8F2855,100:05070D"/>
-
-<br>
-
-<!-- ✦ ANIMATED TITLES ✦ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2200&pause=750&color=9AE8E0&center=true&vCenter=true&width=1000&height=85&lines=LEARNING+PYTHON+PROGRAMMING;LEARNING+JAVASCRIPT;LEARNING+WEB+DEVELOPMENT;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR"/>
+ET-CREATE%20WITHOUT%20LIMITS-30204A?style=for-the-badge&labelColor=080B14&color=754A9B"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:16A6B0,30:55D6B0,60:9B70D8,100:9D315D"/>
+<!-- ✦ SOCIALS ✦ -->  ✦ CONNECT WITH ME ✦
 
-<br>
+<a href="https://github.com/Ghazzalmohammadi">  
+<img src="https://img.shields.io/badge/GITHUB-080B14?style=for-the-badge&logo=github&logoColor=75D9D0"/>  
+</a>  <a href="https://instagram.com/ghazzalmohammadii">  
+<img src="https://img.shields.io/badge/INSTAGRAM-080B14?style=for-the-badge&logo=instagram&logoColor=C17BBD"/>  
+</a>  <a href="https://t.me/Ghazzalmohammadi">  
+<img src="https://img.shields.io/badge/TELEGRAM-080B14?style=for-the-badge&logo=telegram&logoColor=69BFE0"/>  
+</a>  <br><br><br>
 
-<!-- ✦ ABOUT ✦ -->
+<!-- ✦ PERSONAL MOTTO ✦ -->  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:16A6B0,30:55D6B0,65:9B70D8,100:9D315D"/>  <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=25&duration=3500&pause=1200&color=C5A7F5&center=true&vCenter=true&width=1000&height=60&lines=Exploring+the+world+of+code+%26+creativity...;Building+ideas+into+something+beautiful..."/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3800&pause=1400&color=9AE8E0&center=true&vCenter=true&width=1050&height=70&lines=Ghazal+Turns+the+Impossible+into+Possible."/>  <br><br>
 
-<br><br>
+<!-- ✦ MY INSTRUCTORS ✦ -->  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=27&duration=2800&pause=1000&color=C5A7F5&center=true&vCenter=true&width=750&height=65&lines=MY+INSTRUCTORS"/>  <br><br>
 
-<!-- ✦ SKILLS & TOOLS ✦ -->
+<a href="https://github.com/jadijadi">  
+<img src="https://img.shields.io/badge/JADI_MIRMIRANI-MY_INSTRUCTOR-101D3A?style=for-the-badge&logo=github&logoColor=65D6C4"/>  
+</a>  <br><br>
 
-### ✦ TECH STACK & CREATIVE TOOLS ✦
+<a href="https://github.com/Akam-tx">  
+<img src="https://img.shields.io/badge/AKAM--TX-MY_INSTRUCTOR-43245F?style=for-the-badge&logo=github&logoColor=D0A1ED"/>  
+</a>  <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,js,django&theme=dark&perline=6" height="100"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:16A6B0,30:55D6B0,60:9B70D8,100:9D315D"/>  <br><br>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=vscode,github,photoshop,illustrator,aftereffects,premiere&theme=dark&perline=6" height="100"/>
-
-<br><br><br>
-
-<!-- ✦ GERMAN LEARNING ✦ -->
-
-<img src="https://flagcdn.com/w320/de.png" width="150" alt="German Flag"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2800&pause=1000&color=65D6C4&center=true&vCenter=true&width=950&height=75&lines=LEARNING+THE+GERMAN+LANGUAGE"/>
+DESIGNING WITH CREATIVITY. LEARNING WITHOUT LIMITS.
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:087F83,50:7650A8,100:8F2855"/>
-
-<br><br>
-
-<!-- ✦ STATUS ✦ -->
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-102C35?style=for-the-badge&labelColor=080B14&color=087F83"/>
-
-<img src="https://img.shields.io/badge/MINDSET-CREATE%20WITHOUT%20LIMITS-30204A?style=for-the-badge&labelColor=080B14&color=754A9B"/>
-
-<br><br>
-
-<!-- ✦ SOCIALS ✦ -->
-
-### ✦ CONNECT WITH ME ✦
-
-<a href="https://github.com/Ghazzalmohammadi">
-<img src="https://img.shields.io/badge/GITHUB-080B14?style=for-the-badge&logo=github&logoColor=75D9D0"/>
-</a>
-
-<a href="https://instagram.com/ghazzalmohammadii">
-<img src="https://img.shields.io/badge/INSTAGRAM-080B14?style=for-the-badge&logo=instagram&logoColor=C17BBD"/>
-</a>
-
-<a href="https://t.me/Ghazzalmohammadi">
-<img src="https://img.shields.io/badge/TELEGRAM-080B14?style=for-the-badge&logo=telegram&logoColor=69BFE0"/>
-</a>
-
-<br><br><br>
-
-<!-- ✦ PERSONAL MOTTO ✦ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:16A6B0,30:55D6B0,65:9B70D8,100:9D315D"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3800&pause=1400&color=9AE8E0&center=true&vCenter=true&width=1050&height=70&lines=Ghazal+Turns+the+Impossible+into+Possible."/>
-
-<br><br>
-
-<!-- ✦ MY INSTRUCTORS ✦ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=27&duration=2800&pause=1000&color=C5A7F5&center=true&vCenter=true&width=750&height=65&lines=MY+INSTRUCTORS"/>
-
-<br><br>
-
-<a href="https://github.com/jadijadi">
-<img src="https://img.shields.io/badge/JADI_MIRMIRANI-MY_INSTRUCTOR-101D3A?style=for-the-badge&logo=github&logoColor=65D6C4"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/Akam-tx">
-<img src="https://img.shields.io/badge/AKAM--TX-MY_INSTRUCTOR-43245F?style=for-the-badge&logo=github&logoColor=D0A1ED"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:16A6B0,30:55D6B0,60:9B70D8,100:9D315D"/>
-
-<br><br>
-
-**DESIGNING WITH CREATIVITY. LEARNING WITHOUT LIMITS.**
-
-<br><br>
-
-<!-- ✦ FOOTER ✦ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&animation=twinkling&color=0:05070D,25:075B64,50:43245F,75:8F2855,100:05070D"/>
-
-</div>
+<!-- ✦ FOOTER ✦ -->  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&animation=twinkling&color=0:05070D,25:075B64,50:43245F,75:8F2855,100:05070D"/>  </div>
