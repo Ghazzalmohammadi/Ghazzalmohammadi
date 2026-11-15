@@ -115,10 +115,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&animation=twinkling&color=0:05070D,25:075B64,50:43245F,75:8F2855,100:05070D"/>
 
-<br><br>
-
-<!-- ✦ PROFILE VISITORS ✦ -->
-
-<img src="https://komarev.com/ghpvc/?username=Ghazzalmohammadi&style=for-the-badge&label=PROFILE+VISITORS&color=754A9B"/>
-
 </div>
