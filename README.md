@@ -1,9 +1,59 @@
- >
-<!-- ✦ PROFILE VISITORS ✦ -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ghazzalmohammadi&style=for-the-badge&label=PROFILE+VISITORS&color=754A9B"/>
-</p>
+<div align="center">
+
+<!-- ✦ DARK AURORA HEADER ✦ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=310&text=GHAZAL&fontSize=125&fontColor=F1E9FF&fontAlignY=42&animation=twinkling&color=0:05070D,20:101D3A,40:075B64,60:43245F,80:8F2855,100:05070D"/>
+
+<br>
+
+<!-- ✦ ANIMATED TITLES ✦ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2200&pause=750&color=9AE8E0&center=true&vCenter=true&width=1000&height=85&lines=LEARNING+PYTHON+PROGRAMMING;LEARNING+JAVASCRIPT;LEARNING+WEB+DEVELOPMENT;AI+CONTENT+CREATOR;LOGO+%26+GRAPHIC+DESIGNER;PHOTO+%26+VIDEO+EDITOR"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:16A6B0,30:55D6B0,60:9B70D8,100:9D315D"/>
+
+<br>
+
+<!-- ✦ ABOUT ✦ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=25&duration=3500&pause=1200&color=C5A7F5&center=true&vCenter=true&width=1000&height=60&lines=Exploring+the+world+of+code+%26+creativity...;Building+ideas+into+something+beautiful..."/>
+
+<br><br>
+
+<!-- ✦ SKILLS & TOOLS ✦ -->
+
+### ✦ TECH STACK & CREATIVE TOOLS ✦
+
+<img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,js,django&theme=dark&perline=6" height="100"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=vscode,github,photoshop,illustrator,aftereffects,premiere&theme=dark&perline=6" height="100"/>
+
+<br><br><br>
+
+<!-- ✦ GERMAN LEARNING ✦ -->
+
+<img src="https://flagcdn.com/w320/de.png" width="150" alt="German Flag"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2800&pause=1000&color=65D6C4&center=true&vCenter=true&width=950&height=75&lines=LEARNING+THE+GERMAN+LANGUAGE"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:087F83,50:7650A8,100:8F2855"/>
+
+<br><br>
+
+<!-- ✦ STATUS ✦ -->
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-102C35?style=for-the-badge&labelColor=080B14&color=087F83"/>
+
+<img src="https://img.shields.io/badge/MINDSET-CREATE%20WITHOUT%20LIMITS-30204A?style=for-the-badge&labelColor=080B14&color=754A9B"/>
 
 <br><br>
 
@@ -65,5 +115,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&animation=twinkling&color=0:05070D,25:075B64,50:43245F,75:8F2855,100:05070D"/>
 
-</div>
+<br><br>
 
+<!-- ✦ PROFILE VISITORS ✦ -->
+
+<img src="https://komarev.com/ghpvc/?username=Ghazzalmohammadi&style=for-the-badge&label=PROFILE+VISITORS&color=754A9B"/>
+
+</div>
